@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Michael C. Hoffert"
   avatar           : "profile.png"
-  bio              : "Bioinformatics | Ecology | Cool organisms\nOutdoor enthusiast and programmer"
+  bio              : "Bioinformatics & Ecology<br>Outdoor enthusiast<br>Programmer<br>Data visualization & graphics<br>" 
   location         : "Watertown, MA"
-  employer         : "https://finchtherapeutics.com/"
+  employer         : "Finch Therapeutics"
+  employer_link    : "https://finchtherapeutics.com/"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "mchoffert14@gmail.com"
@@ -96,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/realmichaelhoffert"
+  github           : "realmichaelhoffert"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ["https://www.linkedin.com/in/michael-hoffert-996806157/"](test)
+  linkedin         : "https://www.linkedin.com/in/michael-hoffert-996806157/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
