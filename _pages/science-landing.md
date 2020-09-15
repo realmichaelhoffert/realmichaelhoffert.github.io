@@ -5,10 +5,10 @@ title: " "
 # layout: splash
 author_profile: true
 sidebar: true
-# header:
-#   overlay_color: "#000"
-#   overlay_filter: "0.5"
-#   overlay_image: main.jpg
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: main.jpg
 #   # actions:
 #   cta_label: "Download my CV"
 #   cta_url: "https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/_data/MHoffert_Resume_v2.pdf"
@@ -22,16 +22,19 @@ sidebar: true
 #     url: "https://realmichaelhoffert.github.io/contact/"
 ---
 
-### Science
+## Science
+A desire to explore and explain the world around me is the foundation of my interest in science. Although my role as an ecologist has recently been focused on microbial communities, I am excited to explore any system where I can learn about environmental disturbances as ecologically significant events, the shifts in community evolution and composition induced by dynamic environmental and interspecific interactions, and how communities assemble, change, and evolve over time.  
+
+<p style="text-align:center;"><span markdown="1">[Learn more about my scientific interests here](/science/){: .btn .btn--inverse .btn--large}</span></p>
+
+<p style="text-align:center;"><span markdown="1">You can also view my [blogs with the **#science**](tags/#science) tag.</span></p>
 
 
-Curiosity is the foundation 
+## Experience
 
-View my blogs with the [**#science**](tags/#science) tag.
+From evolutionary research in hydrothermal vents to building drugs that rescue the human gut from IBD, my experiences at Carleton College and Finch Therapeutics span an array of topics and contexts.
 
-
-### Experience
-
+<p style="text-align:center;"><span markdown="1">[View my research experiences here](/science/){: .btn .btn--inverse .btn--large}</span></p>
 
 
-You can also view [my blog](blog/) or [download my CV](https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/_data/MHoffert_Resume_v2.pdf)
+<p style="text-align:center;"><span markdown="1">You can also view accompanying [work samples](/work-samples/), or [download my CV](/_data/MHoffert_Resume_v2.pdf)</span></p>

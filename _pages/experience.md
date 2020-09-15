@@ -14,4 +14,14 @@ feature_row2:
     btn_class: "btn--primary"
 ---
 
+### Finch therapeutics
+
+#### The human microbiome in IBD
+
+#### Computational experience
+
+
+### Carleton College
+
+#### Anderson lab
 
