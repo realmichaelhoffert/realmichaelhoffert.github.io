@@ -4,13 +4,11 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+### What's here?
+From time to time, I write blogs about my life - science, hobbies, and general rambling. Read at your own risk: quality is not guaranteed.
+
+{% for post in site.posts %}
   {% include archive-single.html %}
 {% endfor %}

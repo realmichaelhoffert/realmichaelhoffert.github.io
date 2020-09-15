@@ -22,15 +22,16 @@ sidebar: true
 #     url: "https://realmichaelhoffert.github.io/contact/"
 ---
 
-### Scientist
+### Science
 
-blah blah
 
-Finally, you can view my blogs with the **#science** tag.
+Curiosity is the foundation 
+
+View my blogs with the [**#science**](tags/#science) tag.
 
 
 ### Experience
 
-I started blah blah
+
 
 You can also view [my blog](blog/) or [download my CV](https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/_data/MHoffert_Resume_v2.pdf)

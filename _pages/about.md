@@ -32,7 +32,7 @@ feature_row:
   - image_path: test.jpg
     alt: "placeholder image 2"
     title: "Background and Interests"
-    excerpt: "If you can't find me at my computer, I'm probably scaring fish with sticks or falling off my bike. Find out more about my background and extracirriculars, knee pads recommended."
+    excerpt: "If you can't find me at my computer, I'm probably scaring fish with sticks or falling off my bike. Find out more about my background and extracurriculars, knee pads recommended."
     url: "/background-interests/"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<p style="text-align:center;font-size:20px;">Click any of the links below to learn more about me, or   <span markdown="1">  [contact me here](contact/){: .btn .btn--success .btn--medium}</span></p>
+<p style="text-align:center;font-size:20px;">Click any of the links below to learn more about me, or   <span markdown="1">  [get in touch](contact/){: .btn .btn--success .btn--medium}</span></p>
 
 {% include feature_row %}
 
