@@ -44,7 +44,7 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-<p style="text-align:center;font-size:20px;">Click any of the links below to learn more about me, or   <span markdown="1">  [get in touch](contact/){: .btn .btn--success .btn--medium}</span></p>
+<p style="text-align:center;font-size:20px;">Click any of the links below to learn more about me, or   <span markdown="1">  [get in touch](/contact/){: .btn .btn--success .btn--medium}</span></p>
 
 {% include feature_row %}
 
