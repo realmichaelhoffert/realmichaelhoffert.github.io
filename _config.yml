@@ -177,19 +177,12 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  posts:
     output: true
     permalink: /:collection/:path/
-  publications:
+  samples:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
 
 # Defaults
 defaults:

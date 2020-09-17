@@ -19,4 +19,5 @@ excerpt: "I'd love to hear from you."
 ### By email
 [mchoffert14@gmail.com](mchoffert14@gmail.com)
 
-Or via one of the links on the left. I'm happy to arrange meetings on Zoom or any other video conferencing platform.
+### By Zoom
+I'm happy to arrange meetings on Zoom or any other video conferencing platform.

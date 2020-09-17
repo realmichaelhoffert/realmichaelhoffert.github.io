@@ -13,6 +13,7 @@ header:
 # Full-time scientist at Finch Therapeutics: June 2018 - present
 **Manager:** Rotem Gura Sadovsky  
 **Team Lead:** Sonia Timberlake  
+   
 I began in my role as a Bioinformatics Research Associate on Finch Therapeutics' Data Science team in June of 2018. As part of the Data Science team, I work in an extensively collaborative environment, combining insights from my teammates, bench scientists and clinicians at Finch to perform high-throughput analysis of multi-omics microbiome data from patients in a variety of disease indications. My role, which was expanded with a promotion Bioinformatics Research Associate II in June of 2020, also means that I assist in computational analysis method development, perform end-to-end implementation and validation of bioinformatics pipelines, and orchestrate meta-analysis projects as part of the Ulcerative Colitis, Crohn's Disease, Autism Spectrum Disorder and Clostridium difficile (CP101) programs.
 
 ## Analyzing the human microbiome in IBD
