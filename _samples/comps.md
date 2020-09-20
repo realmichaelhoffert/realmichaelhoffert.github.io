@@ -14,4 +14,4 @@ header:
 
 test test test
 
-<object data="/assets/MHoffert_comps_final.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/assets/pdfs/MHoffert_comps_final.pdf" width="1000" height="1000" type='application/pdf'></object>
