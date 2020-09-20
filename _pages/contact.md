@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: main.jpg
+  overlay_image: main_bw_crop.jpg
   # actions:
   # cta_label: "Download my CV"
   # cta_url: "https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/_data/MHoffert_Resume_v2.pdf"
