@@ -32,14 +32,14 @@
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       {% if page.avatar %}
-      <div class="author__avatar align-left">
+      <div class="author__avatar">
         {% if page.avatar contains "://" %}
           <img src="{{ page.avatar }}" alt="{{ author.name }}">
         {% else %}
           <img src="{{ page.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
         {% endif %}
         {% if page.header.cta_url %}
-        <p display="flex" class="align-left"><a href="{{ cta_path }}" class="btn btn--light-outline btn--large" download="MHoffert_Resume_V2.pdf">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <p display="flex" class="align-right"><a href="{{ cta_path }}" class="btn btn--light-outline btn--large" download="MHoffert_Resume_V2.pdf">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
         {% endif %}
       </div>
 
