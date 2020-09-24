@@ -83,7 +83,7 @@ author:
   name             : "Michael C. Hoffert"
   avatar           : "profile.png"
   bio              : "Bioinformatics & Ecology<br>Outdoor enthusiast<br>Programmer<br>Data visualization & graphics<br>" 
-  cv               : "/_data/MHoffert_Resume_V2.pdf"
+  cv               : "/assets/pdfs/MHoffert_Resume_V2.pdf"
   location         : "Watertown, MA"
   employer         : "Finch Therapeutics"
   employer_link    : "https://finchtherapeutics.com/"
