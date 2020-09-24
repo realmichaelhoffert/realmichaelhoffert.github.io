@@ -15,8 +15,8 @@ header:
   overlay_image: main_bw_crop.jpg
   # actions:
   cta_label: "Download my CV"
-  cta_url: "https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/_data/MHoffert_Resume_v2.pdf"
-  cta_path: _data/MHoffert_Resume_v2.pdf
+  cta_url: "/assets/pdfs/MHoffert_Resume_v2.pdf"
+  cta_path: /assets/pdfs/MHoffert_Resume_v2.pdf
   caption: "Lyndhurt, Ontario c. 2019"
 excerpt: "I'm an aspiring ecologist interested in studying how species assemble and co-exist with one another in complex and dynamic ecosystems. I approach these problems with a multidisciplinary computational skillset developed during my time as a bioinformatics researcher at [Finch Therapeutics](https://finchtherapeutics.com/) in Somerville, MA and during my undergraduate studies in the [Biology Program at Carleton College](https://www.carleton.edu/biology/)."
 # intro: 

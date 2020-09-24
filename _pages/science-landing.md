@@ -27,7 +27,7 @@ A desire to explore and explain the world around me is the foundation of my inte
 
 <p style="text-align:center;"><span markdown="1">[Learn more about my scientific interests here](/science/){: .btn .btn--primary .btn--large}</span></p>
 
-<p style="text-align:center;"><span markdown="1">You can also view my [blogs with the **#science**](tags/#science) tag.</span></p>
+<p style="text-align:center;"><span markdown="1">You can also view my [blogs with the **#science**](/tags/#science) tag.</span></p>
 
 
 ## Experience
@@ -37,4 +37,4 @@ From evolutionary research in hydrothermal vents to building drugs that rescue t
 <p style="text-align:center;"><span markdown="1">[View my research experiences here](/experience/){: .btn .btn--primary .btn--large}</span></p>
 
 
-<p style="text-align:center;"><span markdown="1">You can also view accompanying [work samples](/work-samples/), or [download my CV](/_data/MHoffert_Resume_v2.pdf)</span></p>
+<p style="text-align:center;"><span markdown="1">You can also view accompanying [work samples](/samples/), or [download my CV](/assets/pdfs/MHoffert_Resume_v2.pdf)</span></p>
