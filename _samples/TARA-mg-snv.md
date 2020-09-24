@@ -11,6 +11,5 @@ tags:
 
 
 ---
-
 ## Paper
 <object data="/assets/pdfs/MHoffert_BIO338_final.pdf" width="1000" height="1000" type='application/pdf'></object>

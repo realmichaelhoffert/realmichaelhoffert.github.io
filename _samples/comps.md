@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 'Senior Capstone'
+title: 'Senior Thesis'
 permalink: /samples/comps/
 author_profile: true
 tags:
@@ -10,8 +10,4 @@ tags:
 header:
   teaser: test.jpg
 ---
-### Abstract
-
-test test test
-
 <object data="/assets/pdfs/MHoffert_comps_final.pdf" width="1000" height="1000" type='application/pdf'></object>
