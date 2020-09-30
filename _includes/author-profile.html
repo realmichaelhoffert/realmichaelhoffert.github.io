@@ -23,7 +23,7 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.cv %}
-        <li><a href="{{ author.cv | prepend: "/assets/pdfs/" | prepend: base_path}}" class='btn btn--success' download> Download CV </a></li>
+        <li><a href="{{ author.cv }}" class='btn btn--success' download> Download CV </a></li>
       {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true"></i> {{ author.location }}</li>
