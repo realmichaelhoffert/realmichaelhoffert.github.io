@@ -17,7 +17,7 @@ header:
   #cta_label: "Download my CV"
   #cta_url: "/assets/pdfs/MHoffert_Resume_v2.pdf"
   #cta_path: /assets/pdfs/MHoffert_Resume_v2.pdf
-  caption: "Lyndhurt, Ontario c. 2019"
+  # caption: "Lyndhurt, Ontario c. 2019"
 excerpt: "I'm a researcher at [Finch Therapeutics](https://finchtherapeutics.com/) in Somerville, MA. I'm passionate about studying the ecological interactions that determine how communities and populations assemble and adapt over time."
 # intro: 
 #   - excerpt: 'Click any of the links below to read more about my experience and interests'
@@ -25,19 +25,19 @@ excerpt: "I'm a researcher at [Finch Therapeutics](https://finchtherapeutics.com
 #     btn_class: "btn--success btn--x-large"
 #     url: "https://realmichaelhoffert.github.io/contact/"
 feature_row:
-  - image_path: test.jpg
+  - image_path: work-samples.jpg
     alt: "Science and Experience"
     title: "Science and Experience"
     excerpt: "My passion for ecology and bioinformatics has grown from a deep curiosity about organismal evolution and co-existence, driven by research in a diverse array of scientific contexts."
     url: "/science-experience/"
-  - image_path: IMG_9440_crop.jpg
-    alt: "Background and Interests"
-    title: "Background and Interests"
+  - image_path: fallie.jpg
+    alt: "More About Me"
+    title: "More About Me"
     excerpt: "If you can't find me at my computer, I'm probably scaring fish with sticks or falling off my bike. Find out more about my background and extracurriculars, knee pads recommended."
     url: "/background-interests/"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: work-samples.jpg
+  - image_path: model.png
     title: "Work Samples"
     url: "/samples/"
     excerpt: "Projects from my undergraduate at Carleton College, summer research opportunities, and current work at Finch Therapeutics are the foundation of my skills and scientific experience."
