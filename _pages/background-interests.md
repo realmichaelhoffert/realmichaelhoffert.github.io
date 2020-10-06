@@ -56,18 +56,18 @@ fishing_gallery:
 
 # Education
 ![Graduation](/images/graduation.jpg){: .align-left}
-After graduating from [U-32 High School](https://www.wcsu32.org/Domain/8) in 2014, I attended [Carleton College](https://www.carleton.edu/), where I majored in Biology with a concentration in Biochemistry and an unofficial minor in Computer Science (it's complicated). My education at Carleton involved advanced courses in evolution, biochemistry, ecology, genomics, algorithms, computation biology, and computer programming. I also was a [TA](/experience/#carleton-prefect-program), varsity athlete on the Student Athletic Advisory Committee, Biology Student Departmental Advisor, and [professional science dish washer](/experience/#biology-stockroom). I graduated in 2018 with a B.A. after earning Distinction on my [Senior Comprehensive Project](/work-samples/comps/).
+After graduating from [U-32 High School](https://www.wcsu32.org/Domain/8) in 2014, I attended [Carleton College](https://www.carleton.edu/), where I majored in Biology with a concentration in Biochemistry and an unofficial minor in Computer Science (it's complicated). My education at Carleton involved advanced courses in evolution, biochemistry, ecology, genomics, algorithms, computation biology, and computer programming. I also was a [TA](/experience/#carleton-prefect-program), varsity athlete on the Student Athletic Advisory Committee, Biology Student Departmental Advisor, and [professional science dish washer](/experience/#biology-stockroom). I graduated in 2018 with a B.A. after earning Distinction on my [Senior Comprehensive Project](/work-samples/comps/).  
 
 <!-- {% include gallery id="education_gallery"%} -->
 
 # Athletics
-Growing up a tiny house with 3 siblings, the outdoors weren't only for inspiration. Running, skiing (Nordic, but recently my crashing skills have found a new calling on the slopes), and biking have sustained my energy, tested my willpower, and fueled my love for nature year-round. After competing in Nordic skiing, Ultimate Frisbee, and running in high school, I took my skills to Carleton and enjoyed a moderately successful career as a NCAA DIII athlete and team co-captain. Since then, I've hung up the spikes and focused my need for speed on mountain biking.
 ![Race](/images/MH_XC_3.jpg){: .align-right}  
+Growing up in a small house with 3 siblings, the outdoors weren't only for inspiration. Running, skiing (Nordic, but recently my crashing skills have found a new calling on the slopes), and biking have sustained my energy, tested my willpower, and fueled my love for nature year-round. After competing in Nordic skiing, Ultimate Frisbee, and running in high school, I joined Carleton's NCAA DIII cross-country and track teams, where I was a team co-captain. Since then, I've hung up the spikes and focused my need for speed on mountain biking.  
+  
+  
 
-<!-- {% include gallery id="athletics_gallery" %} -->
-
-# Fish
-Every year, I've found time to travel to Southern Ontario to relax in a boat and catch some fish. I am extremely passionate about fishing, an activity I pursue year-round in both fly-fishing and traditional formats. I'm a big fan of finding big smallies on submerged structure during the hot days of Northeastern summers (when I have the most time to fish), remote streams (and the fish that occupy them), and pursuing Master Angler status in my home state of Vermont.
+# Fishing and the outdoors
+I love to fish, an activity I pursue year-round in both fly-fishing and traditional formats. I'm a big fan of finding big smallies on submerged structure during hot summer days in Vermont and New Hampshire's deep lakes, brook trout in remote streams, and pursuing Master Angler status in my home state of Vermont. In addition to fishing, I love to hike in the Green Mountains, White Mountains, ride my bike, and generally fool around outside.
 
 {% include gallery id="fishing_gallery"%}
 

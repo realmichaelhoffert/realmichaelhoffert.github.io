@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: splash 
-title: "Ecology in Extreme Environments"
+title: "Ecology Across Environments"
 # layout: splash
 author_profile: false
 sidebar: false
@@ -18,7 +18,7 @@ header:
   #cta_url: "/assets/pdfs/MHoffert_Resume_v2.pdf"
   #cta_path: /assets/pdfs/MHoffert_Resume_v2.pdf
   caption: "Lyndhurt, Ontario c. 2019"
-excerpt: "I'm a researcher at [Finch Therapeutics](https://finchtherapeutics.com/) in Somerville, MA. I'm passionate about studying the ecological interactions that determine how communities and populations assemble and develop over time."
+excerpt: "I'm a researcher at [Finch Therapeutics](https://finchtherapeutics.com/) in Somerville, MA. I'm passionate about studying the ecological interactions that determine how communities and populations assemble and adapt over time."
 # intro: 
 #   - excerpt: 'Click any of the links below to read more about my experience and interests'
 #     btn_label: "Contact me here"
@@ -45,18 +45,18 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-## Focus on Extremes
-I've spent my time as a researcher studying ecosystems that represent extremes in the world of microbial ecology. [My experience at Finch Therapeutics](/experience/#full-time-scientist-at-finch-therapeutics) as part of a team developing live microbial therapeutics is on the cutting edge of biotechnology and microbiology applications and analysis in human health. [The research projects from my undergraduate career](/experience/#anderson-lab) represent literal extremes: I used multi-omic data to study microbial evolution in boiling hot, ultra-deep hydrothermal vents. My work described the dynamics that dictate how life arose and differentiated on our planet and how it may do the same on others. The fascinating microbiomes from the human gut to the deep ocean have developed my technical and scientific skillsets and fueled my drive to identify the ecological mechanisms that tie these ecosystems together.
+## Extreme-ly experienced
+I've spent my time as a researcher studying ecosystems that represent extremes in the world of microbial ecology. [My experience at Finch Therapeutics](/experience/#full-time-scientist-at-finch-therapeutics) as part of a team developing live microbial therapeutics is on the cutting edge of biotechnology and microbiology applications and analysis in human health. [The research projects from my undergraduate career](/experience/#anderson-lab) represent literal extremes: I used multi-omic data to study microbial evolution in boiling hot, ultra-deep hydrothermal vents. This work described the dynamics that dictate how life arose and differentiated on our planet and how it may do the same on others. The fascinating microbiomes from the human gut to the deep ocean have developed my technical and scientific skillsets and fueled my drive to identify the ecological mechanisms that tie these ecosystems together.
 
-## How Things Work
-I'm driven first and foremost by curiosity, and a "How It Works" approach is the hallmark of my scientific (and extracirrucular!) interests. I'm not only focused on describing ecological dynamics, but generalizing the mechansisms of these dynamics and returning to the data to explain it using my ideas. Why are certain clades of gut microbes enriched in IBD? What geochemical data explains differential selection in the pangenomic features of _Methanothermococcus_ archaea? These are only two of the questions that my research has addressed, but the answers to each have contributed an insight that explains patterns of community assembly and evolution observed in many ecosystems.
+## Focused on mechanisms
+I'm driven first and foremost by curiosity, and finding and defining the mechanisms that drive the biological phenomena I examine in my research has been the hallmark of my scientific interests since day one. From my experience linking computationally reconstructed tumor phylogenies to the biological carcinogenesis to explaining variable selection among functionally distinct elements of archaeal pangenomes, I am always focused on finding an answer that defines an underlying ecological mechanism. My experiences across ecosystems have convinced me that ecology is the perfect field for me - rich with unanswered questions and at the intersection of innumerable topics within biology.
 
 ## In addition to science...
-I'm not a researcher by chance: my curiosity and love of discovery translate into the activities I pursue outside my workday. The perfect example is fishing. The combination of presentation, context, weather, gear and knowledge required to catch a fish are a match (pun intended) for a person who pursues this kind of complexity for a career. The rush of seeing an monster smallmouth come out of the deep plays into it too. I'm also an ex-NCAA runner, a data visualization and HPC geek, and an novice mountain biker.
+My curiosity and love of discovery translates into the activities I pursue outside my workday. Fishing is a perfect example: the combination of presentation, location, weather, and knowledge required to find the perfect fish are a match (pun intended) for a person who seeks complex questions in his work. The rush of seeing an monster smallmouth come out of the deep might play into it too. I'm also a runner, a data visualization and HPC geek, and a novice mountain biker.
 
 <br/>  
 <p style="text-align:center;font-size:20px;">Click below to read about my scientific interests, research experience, see photos of some fish, or find examples of my work.</p>
 
-{% include feature_row %}
+{% include feature_row %}`
 
-<p style="text-align:center;font-size:20px;">You can also <span markdown=1>[download my CV](/assets/pdfs/MHoffert_Resume_V2.pdf)</span>, or <span markdown=1>[get in touch](/contact/)</span></p>
+<p style="text-align:center;font-size:20px;">You can also <a id="resume-pdf" href="https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/assets/pdfs/MHoffert_Resume_v2.pdf" download>download my CV</a>, or <span markdown=1>[get in touch](/contact/)</span></p>
