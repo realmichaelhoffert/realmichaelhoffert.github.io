@@ -62,7 +62,7 @@ After graduating from [U-32 High School](https://www.wcsu32.org/Domain/8) in 201
 
 # Athletics
 ![Race](/images/MH_XC_3.jpg){: .align-right}  
-The outdoors aren't only an inspiration for my career as a scientist, but are also an outlet for my energy. The activities I pursue outside and outside of my work are my way of testing my limits and discovering beautiful places wherever I go. Running, skiing (Nordic, but recently my crashing skills have found a new calling on the slopes), and biking form a year-round schedule of activities that ensure I never get bored. After competing in Nordic skiing, Ultimate Frisbee, and running in high school, I joined Carleton's NCAA DIII cross-country and track teams, where I was a team co-captain. Since then, I've hung up the spikes and focused my need for speed on mountain biking.  
+The outdoors aren't only an inspiration for my career as a scientist, but are also an outlet for my energy. The activities I pursue outside of my work are my way of testing my limits and discovering beautiful places wherever I go. Running, skiing (Nordic, but recently my crashing skills have found a new calling on the slopes), and biking form a year-round schedule of activities that ensure I never get bored. After competing in Nordic skiing, Ultimate Frisbee, and running in high school, I joined Carleton's NCAA DIII cross-country and track teams, where I was a team co-captain. Since then, I've hung up the spikes and focused my need for speed on mountain biking.
   
   
 
