@@ -59,4 +59,4 @@ My curiosity and love of discovery translates into the activities I pursue outsi
 
 {% include feature_row %}`
 
-<p style="text-align:center;font-size:20px;">You can also <a id="resume-pdf" href="https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/assets/pdfs/MHoffert_Resume_v2.pdf" download>download my CV</a>, or <span markdown=1>[get in touch](/contact/)</span></p>
+<p style="text-align:center;font-size:20px;">You can also <a id="resume-pdf" href="https://github.com/realmichaelhoffert/realmichaelhoffert.github.io/blob/master/assets/pdfs/MHoffert_CV_v1.pdf" download>download my CV</a>, or <span markdown=1>[get in touch](/contact/)</span></p>
