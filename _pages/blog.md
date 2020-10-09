@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ### What's here?
-From time to time, I write blogs about my life - science, hobbies, and general rambling. Read at your own risk: quality is not guaranteed.
+This page is still under construction! Come back soon - I'm working on formatting blogs right now. 
 
 {% for post in site.posts %}
   {% include archive-single.html %}
